@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="VOT2018">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/4-DaSiamRPN/DaSiamRPN-Test/results/VOT2018.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
